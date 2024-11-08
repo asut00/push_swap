@@ -30,7 +30,7 @@ The following operations are allowed to manipulate the stacks:
 
 ### Sorting Strategy
 
-I began this project by doing a lot of researches about the theory of sorting algorithms which turned out to be fascinating. 
+I began this project by doing a lot of researches about the theory of sorting algorithms. 
 I then started coding algorithms, starting from 3 numbers and slowly climbing my way up to bigger numbers, which allowed me to ask myself progressively what assets were the most appropriate to solve the problem. In the end, here are the principal steps of my main algorithm :
 - Recursive pre-sorting with median and quartiles: we push everything into b using a recursive pre-sorting that pushes all elements above the 3rd quartile to the bottom of b, all elements between the median and the 3rd quartile to the top of b, and all elements below the median are pushed to the bottom of a. And we repeat this until there are only 3 elements left in a (if we have fewer than 3 elements, we use pa once or twice to ensure we have exactly 3 elements).
 - Once only 3 elements are left in stack a, and the rest of the elements are pre-sorted in stack b, we sort the three elements in stack a (with the simple "sort three" function which is 3 conditions)
