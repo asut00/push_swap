@@ -95,14 +95,11 @@ Thanks to [push_swap_tester](https://github.com/SimonCROS/push_swap_tester)
 
 100 values :
 
-[Voir la vidéo](https://github.com/asut00/push_swap/assets/pushswapvisualiser_100.mov)
-
+https://github.com/user-attachments/assets/a636ad52-827c-4fa6-9d6a-d8a0c8e51c73
 
 500 values : 
 
-
-https://github.com/asut00/Ecole42_Common-core_Push_swap/assets/146354882/9065992e-308c-4316-83ac-ebaa65c26b94
-
+https://github.com/user-attachments/assets/9109e387-219b-4fd4-9cc9-9bed60294879
 
 Thanks to [push_swap_visualiser](https://github.com/Niimphu/push_swap_visualiser)
 
