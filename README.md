@@ -95,7 +95,7 @@ Thanks to [push_swap_tester](https://github.com/SimonCROS/push_swap_tester)
 
 100 values :
 
-https://github.com/asut00/push_swap/assets/pushswapvisualiser_100.mov
+[Voir la vidéo](https://github.com/asut00/push_swap/assets/pushswapvisualiser_100.mov)
 
 
 500 values : 
